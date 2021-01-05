@@ -14,7 +14,7 @@ Sound reactive led lamp using esp8266(NODE MCU). which can be controlled via ale
 * Connect Nodemcu D4 to led strip data input
 
 * Connect Nodemcu 3.3v to microphone VCC pin
-* Connect Nodemcu GND to led microphone GND pin
+* Connect Nodemcu GND to microphone GND pin
 * Connect Nodemcu A0 to microphone analog output A0
 
 ## Software
